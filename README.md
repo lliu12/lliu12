@@ -1,4 +1,4 @@
-# academic
+<!-- # academic
 
 ### A Jekyll theme for academia
 
@@ -76,4 +76,4 @@ To set up your environment to develop this theme, run `bundle install`, then run
 
 ## License
 
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT). -->
