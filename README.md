@@ -1,3 +1,5 @@
+<a href="https://github.com/LeNPaul/academic">Site template by Paul Le.</a>
+
 <!-- # academic
 
 ### A Jekyll theme for academia
