@@ -1,6 +1,6 @@
 featured:
-- {name: 'Liu, L., Choi, G., & Mahadevan, L. Wallpaper group kirigami. Proceedings of the Royal Society A. 477, 20210161, 2021.', url: 'https://arxiv.org/abs/2102.10754'}
-- {name: 'Liu, L., Choi, G., & Mahadevan, L. Quasicrystal kirigami. Submitted, arXiv:2104.13399.', url: 'https://arxiv.org/abs/2104.13399'}
+- {name: 'Liu, L., Choi, G., & Mahadevan, L. Wallpaper group kirigami. Proceedings of the Royal Society A. 477, 20210161, 2021.', url: 'https://royalsocietypublishing.org/doi/full/10.1098/rspa.2021.0161#d1e5867'}
+- {name: 'Liu, L., Choi, G., & Mahadevan, L. Quasicrystal kirigami. Submitted, arXiv:2104.13399.', url: 'https://doi.org/10.1103/PhysRevResearch.4.033114'}
 - {name: 'Finkelstein, M., Liu, L., Levy Schlot, N., Kolumbus, Y., Parkes, D., Rosenschein, J., Keren, S. Deep Reinforcement Learning Explanation via Model Transforms. NeurIPS Workshop on Deep Reinforcement Learning. (To appear in December 2021.) ', url: 'https://d95a4782-4ebd-4b0d-aa3a-24320cc2cc6d.filesusr.com/ugd/c1d2d0_5929426580784e77bd3e85f09b7aff29.pdf'}
 
 index:
